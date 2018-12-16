@@ -6,8 +6,8 @@ Author: Chase Clarke cfclarke@bu.edu
 
 - - - -
 
-To test rubustness of program feel free to test with these test cases 
-(created by Manuel Egele megele@bu.edu).
+To test rubustness of program with these test cases 
+(test cases created by Manuel Egele megele@bu.edu).
 
 
 
