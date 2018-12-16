@@ -1,23 +1,23 @@
 # File Infecting Virus
 File infecting virus implemented in C. Built for Linux x86 systems.
+
 Author: Chase Clarke cfclarke@bu.edu
 
 
-
-================================================================================
+- - - -
 
 To test rubustness of program feel free to test with these test cases 
 (created by Manuel Egele megele@bu.edu).
 
 
 
-1.) Make sure invoking your virus stand-alone as ./virus works -- it should not
+* Make sure invoking your virus stand-alone as ./virus works -- it should not
 crash:
 
 $ ./virus 2>&1
 Hello! I am a simple virus!
 
-2.) Copy /bin/echo to the directory where your virus is and test it:
+* Copy /bin/echo to the directory where your virus is and test it:
 
 $ cp /bin/echo .
 $ ls
@@ -28,7 +28,7 @@ $ ./echo Master
 Hello! I am a simple virus!
 Master
 
-3.) Copy /bin/ls to the directory where your virus is and test it:
+* Copy /bin/ls to the directory where your virus is and test it:
 
 $ cp /bin/ls .
 $ ./echo 2>&1
@@ -38,7 +38,7 @@ $ ./ls 2>&1
 Hello! I am a simple virus!
 echo  ls  sometext.txt  virus
 
-4.) Copy /bin/cat and /bin/grep where your virus is and test that your virus is
+* Copy /bin/cat and /bin/grep where your virus is and test that your virus is
 robust:
 
 $ cp /bin/cat .
@@ -51,7 +51,7 @@ $ ./cat sometext.txt -n 2>&1
 Hello! I am a simple virus!
      1  Hello world!
 
-5.) Invoke ./echo again to make sure that the output is the same:
+* Invoke ./echo again to make sure that the output is the same:
 
 $ ./echo Master
 Hello! I am a simple virus!
