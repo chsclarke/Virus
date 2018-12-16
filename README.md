@@ -1,6 +1,6 @@
 # File Infecting Virus
 File infecting virus implemented in C. Built for Linux x86 systems.
-
+Author: Chase Clarke cfclarke@bu.edu
 
 
 
