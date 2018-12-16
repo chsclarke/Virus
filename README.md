@@ -56,5 +56,3 @@ Hello! I am a simple virus!
 $ ./echo Master
 Hello! I am a simple virus!
 Master
-
-Please go back and debug your stuff. Hope to see you again!
