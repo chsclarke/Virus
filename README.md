@@ -1,8 +1,9 @@
 # File Infecting Virus
 File infecting virus implemented in C. 
 
-File: linux_virus.c Built for Linux x86 systems (infects only ELF executables).
-File: mac_virus.c Built for Mac OSX (infects only Mach-O executables).
+Included files:
+     linux_virus.c Built for Linux x86 systems (infects only ELF executables).
+     mac_virus.c Built for Mac OSX (infects only Mach-O executables).
 
 Author: Chase Clarke cfclarke@bu.edu
 
