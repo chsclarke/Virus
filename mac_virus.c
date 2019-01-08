@@ -1,8 +1,8 @@
 //
 //  virus.c
-//  simple self-replicating virus
+//  simple self-replicating virus built for Mac OSX
 //
-//  Created by Chase Clarke on 12/2/18.
+//  Created by Chase Clarke on 1/7/19.
 //
 #include <dirent.h>
 #include <stdio.h>
