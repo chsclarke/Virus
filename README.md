@@ -26,9 +26,8 @@ To summarize: an infected file will print “Hello! I am a simple virus!” (thi
 
 # Getting Started
 
-To test rubustness of program with these test cases 
-(test cases created by Manuel Egele megele@bu.edu).
-
+Fork the code into a local, isolated, directory.
+Run through the following steps to get a feel of how the virus runs andspreads.
 
 * Make sure invoking your virus stand-alone as ./virus works -- it should not
 crash:
@@ -75,3 +74,6 @@ Hello! I am a simple virus!
 $ ./echo Master
 Hello! I am a simple virus!
 Master
+```
+(test cases created by Manuel Egele megele@bu.edu).
+
