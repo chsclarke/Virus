@@ -10,13 +10,7 @@ This code is written solely for academic purposes and is not to be used for for 
 
 ## What is a file Infecting virus?
 
-```
-"A file-infecting virus is a type of malware that infects executable 
-files with the intent to cause permanent damage or make them unusable. 
-A file-infecting virus overwrites code or inserts infected code into an 
-executable file. This type of virus can infect a number of operating 
-systems, including Macintosh, Windows, and Unix."
-```
+"A file-infecting virus is a type of malware that infects executable files with the intent to cause permanent damage or make them unusable. A file-infecting virus overwrites code or inserts infected code into an executable file. This type of virus can infect a number of operating systems, including Macintosh, Windows, and Unix."
 
 ## How does it work?
 
