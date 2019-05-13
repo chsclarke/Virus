@@ -8,10 +8,9 @@ Author: Chase Clarke cfclarke@bu.edu
 
 This code is written solely for academic purposes and is not to be used for for illegal or damaging applications.
 
-- - - -
 ## What is a file Infecting virus?
 
-     "A file-infecting virus is a type of malware that infects executable files with the intent to cause permanent damage or make them unusable. A file-infecting virus overwrites code or inserts infected code into an executable file. This type of virus can infect a number of operating systems, including Macintosh, Windows, and Unix."
+"A file-infecting virus is a type of malware that infects executable files with the intent to cause permanent damage or make them unusable. A file-infecting virus overwrites code or inserts infected code into an executable file. This type of virus can infect a number of operating systems, including Macintosh, Windows, and Unix."
 
 ## How does it work?
 
@@ -25,8 +24,6 @@ To summarize: an infected file will print “Hello! I am a simple virus!” (thi
 
 *Usage of the /tmp directory is intended to prevent an ls call from accidentally uncovering the temporary files during the virus’s execution.
 
-
-- - - -
 # Getting Started
 
 To test rubustness of program with these test cases 
